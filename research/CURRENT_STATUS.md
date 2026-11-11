@@ -1,41 +1,46 @@
 # CURRENT_STATUS
 
 - **Project**: ai-opportunity-to-revenue
-- **Current Phase**: Phase 0 — Evidence-first Research
-- **Current Status**: IN PROGRESS（4 路平行研究進行中）
+- **Current Phase**: Phase 0 — Evidence-first Research（初版完成，待人工複核）
+- **Current Status**: 文件 01–17 已產出；本機 commit，**尚未 push（無 remote）**
 - **Last Updated**: 2026-11-11
 
 ## Completed
-- 環境預檢：目錄原為空、非 git repo；已 `git init -b main`（本機）
-- `gh` 已登入（帳號 DevonForlan）
+01–17 全部文件、research/data/*.csv、research/_sources/*；Source Log 已合併（16）。
 
 ## In Progress
-- 02 Existing projects（repo 深度研究 + ≥10 個額外 repo）
-- 03/06 Platforms + Taiwan payment
-- 04 Real bounty samples（目標 ≥20）
-- 05 Freelance market samples（目標 ≤30，可能受 login wall 限制）
+無。
 
 ## Pending
-- 01, 07–15, 17 文件；16_SOURCE_LOG（合併 research/_sources/*）
+- 人工複核（尤其 04/05 樣本、06 稅務）
+- 補查：官方成本價（09 多為 UNKNOWN）、Upwork/Fiverr 內容與 ToS、Contra/Toptal/Arc/Lemon.io 樣本、build-DNA 正確 repo、PCC 標案 API 實測
+- Push 到 GitHub（需使用者授權建立 remote）
 
-## Key Findings (preliminary, repo metadata via GitHub API, 2026-11-11)
-- global-builder-opportunity-radar：0 stars, MIT, Python, 最近 push 2026-09-08（VERIFIED, API）
-- TIP：5 stars, 無 license, Shell, 最近 push 2026-05-31（VERIFIED, API）
-- idea-hunt-skill：4 stars, MIT, 最近 push 2026-10-26（VERIFIED, API）
-- shipwright：16 stars, MIT, TypeScript, 近日仍活躍（VERIFIED, API）
-- build-DNA：`gh search repos` 無明確對應 repo → UNKNOWN（待深查）
+## Key Findings
+- OSS bounty：28 個詳查 0 個可行；最高 Fit 48/100；Algora 實質萎縮（正式關閉 UNKNOWN）
+- Freelancer 樣本多為低價（$4–50/hr）；Upwork 403
+- 有公開付費證據的方向：標準化 DB 審計（Percona 起價 $11,400；AVP $490，VERIFIED；個人可成交價 UNKNOWN）
+- radar 可部分 reuse（MIT），TIP 無程式/價格為推測，idea-hunt 只取 workflow，Shipwright 只參考
+- Taiwan：Polar、Contra 官方列台灣；Stripe 自開帳號 UNVERIFIED
 
-## Important Risks / Blockers
-- **BLOCKER**: 專案沒有 GitHub remote。尚未建立 repo（建立遠端 repo 屬對外動作，需使用者決定 public/private 與名稱）。commit 先存本機。
-- Freelance 平台多有 login wall，樣本數可能不足
+## Important Risks
+雇主兼職/NDA（未知）、台灣稅務類別、組織政策禁止客戶資料入 AI、平台 ToS 自動化（UNVERIFIED）、樣本小。
+
+## Blockers
+- 無 GitHub remote（需使用者決定是否建立 private repo）
 
 ## Unknowns
-- 台灣付款可行性、各平台 ToS 對自動化的限制（研究中）
+成本實價、P_accept/P_pay、個人顧問可成交價、Upwork/Fiverr 市場、build-DNA（候選：Sudiddii/build-DNA，未確認）。
+
+## Open Questions
+1. 是否授權建立 private GitHub repo 並 push？
+2. build-DNA 的正確 owner/repo？
+3. 雇主兼職規定？
 
 ## Current Recommendation
-尚未形成（需完成證據收集）。
+**CONDITIONAL GO**：Hybrid 半自動系統，P1 = Productized MongoDB/Data 健檢服務（人主導）；Avoid = OSS bounty、Micro-SaaS、Dev tool、Newsletter。見 17。
 
 ## Next Actions
-1. 收齊 4 路研究結果並審核
-2. 撰寫 07–15、17，合併 Source Log
-3. 取得使用者對 remote repo 的授權後 push
+1. 使用者複核並回答 Open Questions
+2. 完成 Day-0 前置（雇主政策、稅務、收款）
+3. 通過後依 15 啟動 7 天 MVP
