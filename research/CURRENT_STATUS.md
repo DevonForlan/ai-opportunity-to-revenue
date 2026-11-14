@@ -26,7 +26,7 @@
 雇主兼職/NDA（未知）、台灣稅務類別、組織政策禁止客戶資料入 AI、平台 ToS 自動化（UNVERIFIED）、樣本小。
 
 ## Blockers
-- 需使用者在 GitHub UI 設定 `ANTHROPIC_API_KEY` secret 與「Allow Actions to create PRs」（見 docs/CHATOPS_SETUP.md）；端到端尚未驗證
+- 需使用者在 GitHub UI 設定 `CLAUDE_CODE_OAUTH_TOKEN` secret 與「Allow Actions to create PRs」（見 docs/CHATOPS_SETUP.md）；端到端尚未驗證
 
 ## Unknowns
 成本實價、P_accept/P_pay、個人顧問可成交價、Upwork/Fiverr 市場、build-DNA（候選：Sudiddii/build-DNA，未確認）。
@@ -43,5 +43,5 @@
 2. 完成 Day-0 前置（雇主政策、稅務、收款）
 3. 通過後依 15 啟動 7 天 MVP
 
-## Cloud Architecture（2026-11-11）
-gh-aw v1.2.2 + `engine: claude`；Control Issue ChatOps（/status /continue /research /analyze /finalize）；safe-outputs 僅 comment + draft PR。詳見 docs/CHATOPS_SETUP.md、AGENTS.md。
+## Cloud Architecture（2026-11-14）
+改為 anthropics/claude-code-action + `CLAUDE_CODE_OAUTH_TOKEN`（取代 gh-aw，PR 待 merge）；Control Issue #2 ChatOps；work job 無 push 權，guard 步驟 push `agent/*` 分支並開 draft PR。詳見 docs/CHATOPS_SETUP.md。
