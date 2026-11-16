@@ -1,9 +1,9 @@
 # CURRENT_STATUS
 
 - **Project**: ai-opportunity-to-revenue
-- **Current Phase**: Phase 1A — MongoDB/Data Platform productization research（完成，待人工複核；見 research/phase1_productization/）
+- **Current Phase**: Phase 1B — AI Application / AI Automation productized service research（完成，待人工複核；見 research/phase1b_ai_application/；Phase 1A 為 baseline）
 - **Current Status**: 文件 01–17 已產出並已 push 至 private repo DevonForlan/ai-opportunity-to-revenue；雲端 ChatOps 架構已建立（待設定 Secret 後實測）
-- **Last Updated**: 2026-11-16
+- **Last Updated**: 2026-11-16（Phase 1B）
 
 ## Completed
 01–17 全部文件、research/data/*.csv、research/_sources/*；Source Log 已合併（16）。
@@ -48,3 +48,6 @@
 
 ## Phase 1A（2026-11-16）
 結論 CONDITIONAL GO → Pilot 驗證（非 build）。Demand 371 列、供給 73 列、Freelance 86 列。MongoDB 專屬購買證據 = 0；台灣公部門有資料庫健檢/升級採購（非 MongoDB）。詳見 research/phase1_productization/00 與 16。
+
+## Phase 1B（AI Application，2026-11-16）
+方向調整：第一主線 AI Application/Automation，MongoDB 降為次要。結論 CONDITIONAL GO → 測試獲客＋小型 pilot（非 build）。需求 295／供給 96／Freelance 137。Top 5：AI Assessment、Support Automation、Workflow Automation、RAG Assistant、Eval/Guardrail。私人買家購買證據=0（purchase 126 全為公部門）；AI+DB 差異化無買家證據。詳見 research/phase1b_ai_application/00 與 16。PR #5（Phase 1A）尚未 merge。

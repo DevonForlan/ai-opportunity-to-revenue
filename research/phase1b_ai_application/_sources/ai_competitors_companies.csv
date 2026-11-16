@@ -1,0 +1,49 @@
+source,url,source_type,access_date,published_or_updated,evidence_level,used_for,confidence,notes
+Main & Machine (M&M),https://www.mainandmachine.com/pricing/,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC001,high,Read via WebFetch (summarised extraction); VERIFIED
+Goodspeed,https://goodspeed.studio/n8n-developers/n8n-agency-fees-pricing-models,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC002,high,Read via WebFetch (summarised extraction); VERIFIED
+Pragma-Code,https://www.pragma-code.de/en/packages-pricing,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC003,high,Read via WebFetch (summarised extraction); VERIFIED
+Copilot Consulting,https://copilotconsulting.com/pricing,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC004,high,Read via WebFetch (summarised extraction); VERIFIED
+Just Think AI,https://justthink.ai/pricing/sprint,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC005,high,Read via WebFetch (summarised extraction); VERIFIED
+WorkWise Solutions,https://workwisesolutions.org/faq/workwise-solutions/what-is-the-typical-engagement-timeline.html,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC006,high,Read via WebFetch (summarised extraction); VERIFIED
+XYZ (xyz.dev),https://xyz.dev/pricing,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC007,high,Read via WebFetch (summarised extraction); VERIFIED
+GroundAI,https://groundai-website.vercel.app/,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC008,high,Read via WebFetch (summarised extraction); VERIFIED
+INSIDEA,https://insidea.com/ai/pricing,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC009,high,Read via WebFetch (summarised extraction); VERIFIED
+Outright Mental,https://outrightmental.com/services/skunkworks-sprints/,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC010,high,Read via WebFetch (summarised extraction); VERIFIED
+Future Processing,https://www.future-processing.com/what-we-do/value-prototype-sprint/,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC011,high,Read via WebFetch (summarised extraction); VERIFIED
+Symphony Solutions,https://symphony-solutions.com/services/ai-proof-of-concept,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC012,high,Read via WebFetch (summarised extraction); VERIFIED
+Pixelfield,https://pixelfield.co.uk/ai-development-services/ai-proof-of-concept/,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC013,high,Read via WebFetch (summarised extraction); VERIFIED
+Alian Software (Alian AI),https://aliansoftware.com/en/pricing/sprint,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC014,high,Read via WebFetch (summarised extraction); VERIFIED
+IT Partner LLC - M365 Copilot Readiness Assessment,https://o365hq.com/md/services/microsoft-365-copilot-readiness-assessment,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC015,high,Read via WebFetch (summarised extraction); VERIFIED
+IT Partner LLC - Copilot & AI Use-Case ROI Sprint,https://o365hq.com/md/services/microsoft-365-copilot-ai-use-case-roi-sprint,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC016,high,Read via WebFetch (summarised extraction); VERIFIED
+EPC Group,https://www.epcgroup.net/accelerators/copilot-readiness-assessment,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC017,high,Read via WebFetch (summarised extraction); VERIFIED
+Steadfast Solutions,https://www.steadfastsolutions.com.au/copilot-assessment/,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC018,medium,Read via WebFetch (summarised extraction); PARTIALLY VERIFIED
+ProArch,https://www.proarch.com/microsoft-copilot-jumpstart-services,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC019,high,Read via WebFetch (summarised extraction); VERIFIED
+GrowwStacks,https://www.growwstacks.com/services/make-automation,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC020,high,Read via WebFetch (summarised extraction); VERIFIED
+Hack'celeration,https://hackceleration.com/automation-agency,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC021,high,Read via WebFetch (summarised extraction); VERIFIED
+GRC Solutions,https://grcsolutions.io/ai-red-teaming-ml-llm-testing/,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC022,high,Read via WebFetch (summarised extraction); VERIFIED
+LOW/CODE Agency,https://www.lowcode.agency/blog/fixed-price-vs-retainer-for-your-zapier-development,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC023,medium,Read via WebFetch (summarised extraction); PARTIALLY VERIFIED
+Caylent - Generative AI Proof of Value,https://caylent.com/catalysts/aws-generative-ai-proof-of-value,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC024,high,Read via WebFetch (summarised extraction); VERIFIED
+Caylent - Generative AI Strategy,https://caylent.com/catalysts/AWS-Generative-AI-Strategy,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC025,high,Read via WebFetch (summarised extraction); VERIFIED
+Caylent - Forward Deployed Engineering Pods,https://caylent.com/catalysts/forward-deployed-engineering-pods,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC026,high,Read via WebFetch (summarised extraction); VERIFIED
+deepsense.ai,https://deepsense.ai/blog/deepsense-ai-joins-the-claude-partner-network-services-track-2/,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC027,high,Read via WebFetch (summarised extraction); VERIFIED
+cacaFly (聖洋科技),https://www.cacafly.com,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC028,medium,Read via WebFetch (summarised extraction); PARTIALLY VERIFIED
+iKala,https://ikala.ai,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC029,high,Read via WebFetch (summarised extraction); VERIFIED
+Peerbits,https://www.peerbits.com/ai-readiness-for-small-business.html,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC030,high,Read via WebFetch (summarised extraction); VERIFIED
+VibeFactory.ai,https://vibefactory.ai/ai-implementation-services-rag-agents-enterprise,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC031,high,Read via WebFetch (summarised extraction); VERIFIED
+SourceOfTruth Labs,https://sotlabs.net/ai-audit,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC032,high,Read via WebFetch (summarised extraction); VERIFIED
+IT Partner LLC - ISO 42001 Readiness Assessment,https://o365hq.com/md/services/iso-42001-readiness-assessment,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC033,high,Read via WebFetch (summarised extraction); VERIFIED
+DeepInspect,https://www.deepinspect.ai/services/ai-governance-compliance,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC034,high,Read via WebFetch (summarised extraction); VERIFIED
+精誠集團 Sincere Group,https://www.cio.com.tw/sincere-group-providesgenerating-ai-one-dragon-service-into-government-healthcare-finance-manufacturing-industry/,press_article,2026-11-16,UNKNOWN,B,AI_SUPPLY row AC035,medium,Read via WebFetch (summarised extraction); PARTIALLY VERIFIED
+叡揚資訊 Vigor (GSS),https://technews.tw/?p=1211586,press_article,2026-11-16,UNKNOWN,B,AI_SUPPLY row AC036,medium,Read via WebFetch (summarised extraction); PARTIALLY VERIFIED
+SSW,https://www.ssw.com.au/consulting/ai-discovery-workshop,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC037,high,Read via WebFetch (summarised extraction); VERIFIED
+Sherwen,https://www.sherwen.com/ai-strategy-workshop,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC038,high,Read via WebFetch (summarised extraction); VERIFIED
+SpotDev Services,https://www.spotdev.co.uk/services/chatgpt-codex-rollout,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC039,high,Read via WebFetch (summarised extraction); VERIFIED
+Vention,https://ventionteams.com/solutions/ai/workshops,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC040,high,Read via WebFetch (summarised extraction); VERIFIED
+Pythian,https://www.pythian.com/ai-strategy-consulting/workshops/ai-ml,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC041,high,Read via WebFetch (summarised extraction); VERIFIED
+CGI (OpenAI partner),https://www.cgi.com/en/alliances/openai,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC042,high,Read via WebFetch (summarised extraction); VERIFIED
+DLabs.AI,https://dlabs.ai/?p=15259,provider_service_page,2026-11-16,UNKNOWN,A,AI_SUPPLY row AC043,high,Read via WebFetch (summarised extraction); VERIFIED
+Shareuhack Taiwan AI automation guide,https://www.shareuhack.com/posts/ai-automation-consulting-taiwan-guide-2026,unreadable_or_weak,2026-11-16,UNKNOWN,C,limitation log,low,"AI-agent-authored media page; Taiwan price tiers NT$8k-300k+, not provider rows; weak (C)"
+PRO360 AI consultant price page,https://www.pro360.com.tw/price/ai_consultant,unreadable_or_weak,2026-11-16,UNKNOWN,C,limitation log,low,"Seen in search snippet only; marketplace estimates, not read; C"
+Acropolium AI readiness package,https://acropolium.com/packages/ai-readiness-assessment/,unreadable_or_weak,2026-11-16,UNKNOWN,C,limitation log,low,HTTP 403 on fetch; not used as a row
+MojoTech AI workshop,https://www.mojotech.com/ai/workshop/,unreadable_or_weak,2026-11-16,UNKNOWN,C,limitation log,low,Fetch failed (socket hang up); not used as a row
+IT Partner ISO page vantagepoint.io,https://vantagepoint.io/packages/ai-iso-42001-eu-ai-act-readiness,unreadable_or_weak,2026-11-16,UNKNOWN,C,limitation log,low,HTTP 404 on fetch; not used

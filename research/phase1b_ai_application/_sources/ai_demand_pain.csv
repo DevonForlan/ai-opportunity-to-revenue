@@ -1,0 +1,9 @@
+source,url,source_type,access_date,published_or_updated,evidence_level,used_for,confidence,notes
+n8n community (Discourse JSON search/category/topic),https://community.n8n.io,forum,2026-11-16,2025-2026,C,pain+hiring rows,medium,200 OK; 429 handled by backoff; /c/12 pagination failed (network outage)
+OpenAI developer community Discourse JSON,https://community.openai.com,forum,2026-11-16,2025-2026,C,pain rows,medium,search snippets only
+Make community Discourse JSON,https://community.make.com,forum,2026-11-16,2025-2026,C,pain + hire requests,medium,search snippets only
+LangChain forum Discourse JSON,https://forum.langchain.com,forum,2026-11-16,2025-2026,C,"pain rows (developer-heavy, weak buyer signal)",low,search partially failed in outage
+Hacker News Algolia API,https://hn.algolia.com/api/v1/search,api,2026-11-16,2025-2026,B,Ask HN pain rows,medium,practitioner voice not buyer
+Zapier community,https://community.zapier.com,forum,2026-11-16,n/a,C,none,n/a,latest.json returned 404; not collected
+Dify community,https://community.dify.ai,forum,2026-11-16,n/a,C,none,n/a,connection failed; not collected
+Reddit / StackExchange / GitHub issues / Indie Hackers,n/a,various,2026-11-16,n/a,C,none,n/a,NOT attempted this run (time + network outage); coverage gap
