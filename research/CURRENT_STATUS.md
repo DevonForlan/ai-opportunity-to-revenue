@@ -1,9 +1,9 @@
 # CURRENT_STATUS
 
 - **Project**: ai-opportunity-to-revenue
-- **Current Phase**: Phase 0 — Evidence-first Research（初版完成，待人工複核）
+- **Current Phase**: Phase 1A — MongoDB/Data Platform productization research（完成，待人工複核；見 research/phase1_productization/）
 - **Current Status**: 文件 01–17 已產出並已 push 至 private repo DevonForlan/ai-opportunity-to-revenue；雲端 ChatOps 架構已建立（待設定 Secret 後實測）
-- **Last Updated**: 2026-11-11
+- **Last Updated**: 2026-11-16
 
 ## Completed
 01–17 全部文件、research/data/*.csv、research/_sources/*；Source Log 已合併（16）。
@@ -45,3 +45,6 @@
 
 ## Cloud Architecture（2026-11-14）
 改為 anthropics/claude-code-action + `CLAUDE_CODE_OAUTH_TOKEN`（取代 gh-aw，PR 待 merge）；Control Issue #2 ChatOps；work job 無 push 權，guard 步驟 push `agent/*` 分支並開 draft PR。詳見 docs/CHATOPS_SETUP.md。
+
+## Phase 1A（2026-11-16）
+結論 CONDITIONAL GO → Pilot 驗證（非 build）。Demand 371 列、供給 73 列、Freelance 86 列。MongoDB 專屬購買證據 = 0；台灣公部門有資料庫健檢/升級採購（非 MongoDB）。詳見 research/phase1_productization/00 與 16。

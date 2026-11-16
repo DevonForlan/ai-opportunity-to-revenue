@@ -1,0 +1,22 @@
+source,url,source_type,access_date,published_or_updated,evidence_level,used_for,confidence,notes
+Contra service page (MongoDB+Redis audit),https://contra.com/s/7reBXqWc-mongo-db-and-redis-performance-audit,provider page,2026-11-16,UNKNOWN,A (provider claim),I001 price/scope/access,high for what page says,self-reported; no reviews
+ZephyrCode audits,https://audits.zephyrcode.live/,provider page,2026-11-16,UNKNOWN,A (provider claim),I002 I003,high for what page says,solo; prices/timelines/guarantee read from page
+Pine Street Analytics,https://website-73o.pages.dev/,provider page,2026-11-16,UNKNOWN,A (provider claim),I004,medium,no price; email booking
+Contra SQL and Database Optimization,https://contra.com/s/evQLkboW-sql-and-database-optimization,provider page,2026-11-16,UNKNOWN,A (provider claim),I005,high,$50/hr starting
+Contra Analytics Engineering Audit,https://contra.com/s/bAFbqXvM-analytics-engineering-audit,provider page,2026-11-16,UNKNOWN,A (provider claim),I006,high,adjacent to MongoDB
+Contra freelancer services (Kafka),https://contra.com/freelancer_mjdptbp6/services,provider page,2026-11-16,UNKNOWN,A (provider claim),I007,medium,$25/hr
+Contra fractional data engineer post,https://contra.com/p/RYvXEk7A-fractional-data-engineer,provider page,2026-11-16,2024-08-03 (modified 2026-07-23 per JSON-LD),A (provider claim),I008,medium,no price
+Database SPA,https://databasespa.net/,provider page,2026-11-16,UNKNOWN,A (provider claim),I009,medium,certs unverified with issuers
+GenAI Data Solutions,https://genai-data-solutions.pages.dev/,provider page,2026-11-16,UNKNOWN,A (provider claim),I010,medium,no prices
+Dattell Kafka audit,https://dattell.com/data-architecture-blog/apache-kafka-audit/,provider page,2026-11-16,UNKNOWN,A (provider claim),I011,high,$5000 stated
+JusDB MongoDB consulting,https://www.jusdb.com/databases/mongodb/consulting,provider page,2026-11-16,UNKNOWN,A (provider claim),I012,medium,free audit terms
+Champlin Enterprises blog/site,https://champlinenterprises.com/blog/change-data-capture-debezium-kafka,provider page,2026-11-16,UNKNOWN,A (provider claim),I013,medium,Sprint from $10000; not MongoDB-specific
+Mydbops audit page,https://www.mydbops.com/mongodb/performance-security-audit,provider page,2026-11-16,UNKNOWN,A (provider claim),I014 benchmark,medium,possible duplicate with firm dataset
+Delbridge MongoDB consulting,https://delbridge.solutions/mongodb-implementation-consulting/,provider page,2026-11-16,UNKNOWN,A (provider claim),I015 benchmark,medium,possible duplicate with firm dataset
+Freelancer.com MongoDB hire page,https://www.freelancer.com/hire/mongodb,marketplace listing,2026-11-16,UNKNOWN,B (platform-displayed),I016 I017 rates/reviews,medium,list truncated; agencies excluded
+MentorCruise MongoDB experts,https://mentorcruise.com/experts/mongodb,marketplace listing,2026-11-16,UNKNOWN,C (search snippet only),I018,low,fetch 403; prices from search summary
+Upwork service listings (9),https://www.upwork.com/services/product/,marketplace listing,2026-11-16,UNKNOWN,C (search snippet only),I019-I027,low,fetch 403; see per-row URLs in dataset
+Fiverr gig listings (12),https://fiverr.com/,marketplace listing,2026-11-16,UNKNOWN,C (search snippet only),I028-I039,low,fetch 403; see per-row URLs in dataset
+WebSearch: Chinese queries (MongoDB 顧問 / 資料庫顧問 / Kafka 顧問 / 接案),n/a,search,2026-11-16,n/a,n/a,negative finding: no Taiwan solo MongoDB consultant page found,low,absence in search is not proof of absence
+MongoDB Champions page,https://www.mongodb.com/community/champions/,official page,2026-11-16,UNKNOWN,A,checked for champion-consultants,low,page had no roster; none verified
+Toptal individual resume page,https://www.toptal.com/developers/resume/syed-ashar-abbas,marketplace profile,2026-11-16,UNKNOWN,n/a,not used,n/a,skipped: personal data under org policy; not recorded

@@ -1,0 +1,52 @@
+source,url,source_type,access_date,published_or_updated,evidence_level,used_for,confidence,notes
+Contra Terms of Service,https://www.contra.com/terms,official terms,2026-11-16,UNKNOWN,A,scraping/automation/AI/fees/eligibility clauses,medium,WebFetch summary not verbatim; sections 2/6.9/8/10/11.2
+Contra payout options,https://client-help.contra.com/en/articles/9708244-payout-options-for-contractors,official help,2026-11-16,UNKNOWN,A,payout methods fees countries,high,Taiwan not mentioned; 180+ countries; unsupported list
+Contra fees for independents,https://help.contra.com/en/articles/12642699-fees-on-contra-for-independents,official help,2026-11-16,UNKNOWN,A,0% commission,low,seen only in search result snippet; not fetched
+Contra Pro pricing (third-party),https://www.jobbers.io/?p=85708,secondary blog,2026-11-16,UNKNOWN,C,Pro price claim,low,conflicting figures between sources; not used as fact
+Freelancer.com Terms,https://www.freelancer.com/about/terms,official terms,2026-11-16,UNKNOWN,A,robots clause fees withdrawal cap eligibility,medium,read to section 46 of ~106k chars; AI clause not seen
+Fiverr Terms of Service,https://www.fiverr.com/legal-portal/legal-terms/terms-of-service,official terms,2026-11-16,UNKNOWN,A,attempt,low,HTTP 403; no content
+Fiverr seller commission (ConductAtlas),https://conductatlas.com/platform/fiverr/fiverr-terms-of-service/seller-revenue-commission-and-withdrawal-terms/,secondary monitor,2026-11-16,UNKNOWN,C,20% commission claim,low,not official; UNVERIFIED
+Upwork legal,https://www.upwork.com/legal,official terms,2026-11-16,UNKNOWN,A,attempt,low,HTTP 403
+Upwork is-upwork-free,https://www.upwork.com/resources/is-upwork-free,official resource,2026-11-16,UNKNOWN,A,fee attempt,low,HTTP 403; fee info from search snippets only
+Upwork fees explained (third-party),https://www.skydo.com/blog/upwork-fees-freelancers,secondary blog,2026-11-16,2026,C,0-15% fee since 2025-05-01 claim,low,UNVERIFIED
+Upwork help bots/automation,https://support.upwork.com/hc/en-us/articles/43342677368467-Use-bots-and-other-automation-properly,official help,2026-11-16,UNKNOWN,A,automation title,low,BASELINE S21; 403
+Upwork AI proposals (third-party),https://giguphq.com/blog/upwork-ai-proposals-banned-2026,secondary blog,2026-11-16,2026,C,AI proposals stance,low,search snippet only
+LinkedIn User Agreement,https://www.linkedin.com/legal/user-agreement,official terms,2026-11-16,UNKNOWN,A,sec 8.2 scraping/bots/fake identity,medium,WebFetch summary
+Reddit User Agreement,https://www.redditinc.com/policies/user-agreement,official terms,2026-11-16,UNKNOWN,A,attempt,low,tool refused fetch
+Reddit Rules,https://support.reddithelp.com/hc/en-us/articles/360043504051-Reddit-Rules,official help,2026-11-16,UNKNOWN,A,attempt,low,HTTP 403
+Reddit robots/scraping post,https://redlib.hackliberty.org/r/redditdev/comments/1doc3pt/updating_our_robotstxt_file_and_upholding_our/la8obim/?context=3,mirror of official post,2026-11-16,2024-06,C,commercial scraping stance,low,search snippet
+Hacker News Terms of Use,https://www.ycombinator.com/legal/,official terms,2026-11-16,UNKNOWN,A,scraping/robots/harvest contact info,medium,WebFetch summary
+Hacker News Guidelines,https://news.ycombinator.com/newsguidelines.html,official guideline,2026-11-16,UNKNOWN,A,promotion and generated-text rules,medium,WebFetch summary
+GitHub Terms of Service,https://docs.github.com/en/site-policy/github-terms/github-terms-of-service,official terms,2026-11-16,UNKNOWN,A,API spam/personal info resale,medium,WebFetch summary section H
+MongoDB Partner Program,https://www.mongodb.com/company/partners,official site,2026-11-16,UNKNOWN,A,partner categories application process certification,medium,eligibility criteria not listed; company-level form
+MongoDB Partner Program Agreement,https://mongodb.com/company/partners/partner-program-agreement,official terms,2026-11-16,2026-07-30,A,unilateral program change,low,search snippet only
+MongoDB Consulting,https://www.mongodb.com/products/consulting,official site,2026-11-16,UNKNOWN,A,first-party advisory offering; no public price,medium,
+MongoDB Community Forums,https://www.mongodb.com/community/forums/,official site,2026-11-16,UNKNOWN,A,categories; no promo rule on page,medium,
+MongoDB forum guidelines,https://www.mongodb.com/community/forums/guidelines,official site,2026-11-16,UNKNOWN,A,spam/cross-post rules,low,no self-promotion/job rule found
+Percona partners,https://www.percona.com/blog/about/partners,official site,2026-11-16,UNKNOWN,A,partner categories APAC channel partners,medium,no criteria; email contact
+Toptal freelance jobs,https://www.toptal.com/freelance-jobs,official site,2026-11-16,UNKNOWN,A,screening rate setting billing,medium,no country list
+Lemon.io for developers,https://lemon.io/for-developers/,official site,2026-11-16,UNKNOWN,A,vetting payout options,medium,$55/hr attribution unclear
+Arc Taiwan page,https://arc.dev/w/taiwan,official site,2026-11-16,UNKNOWN,A,remote jobs Taiwan filter,low,no eligibility/fees
+Wise USD account details help,https://wise.com/uk/help/articles/2810318/can-i-get-usd-account-details,official help,2026-11-16,UNKNOWN,A,restricted country list lacks Taiwan,medium,does not affirm Taiwan eligible
+Wise AU receive pricing,https://wise.com/au/pricing/receive,official pricing,2026-11-16,UNKNOWN,A,USD wire receive fee 6.11,low,Australia page not Taiwan
+Wise Taiwan tutorial (third-party),https://kkinvesting.io/posts/wise-tutorial/,secondary blog,2026-11-16,2026,C,claim Taiwan can get USD details,low,UNVERIFIED
+PayPal Taiwan consumer fees,https://securepayments.paypal.com/tw/digital-wallet/paypal-consumer-fees,official,2026-11-16,2026-05-28,A,withdrawal fees conversion 4.00%/2.50%/3.00%,medium,merchant receiving fees on separate page not read
+PayPal Taiwan merchant fees,https://securepayments.paypal.com/tw/digital-wallet/paypal-merchant-fees,official,2026-11-16,UNKNOWN,A,attempt,low,HTTP 404/403
+Payoneer pricing,https://www.payoneer.com/about/pricing/,official,2026-11-16,UNKNOWN,A,fees; Taiwan not in USD1.50 list,medium,no Taiwan page
+Stripe Global Payouts recipient countries,https://docs.stripe.com/global-payouts/send-money/recipient-countries,official doc,2026-11-16,UNKNOWN,A,Taiwan TWD; USD private preview; senders US/UK,high,
+Stripe global availability,https://stripe.com/global,official,2026-11-16,UNKNOWN,A,Taiwan not listed for accounts,medium,fetch summary
+Polar supported countries,https://polar.sh/docs/documentation/polar-as-merchant-of-record/supported-countries,official doc,2026-11-16,UNKNOWN,A,Taiwan in payout countries; no fees,high,
+外匯收支或交易申報辦法,https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0450009,official law database,2026-11-16,2022-12-26 amended (eff 2023-01-01),A,NT$500k reporting threshold; US$5M annual; documents; 5-year retention,high,check for later amendments
+中央銀行函 台央外柒字第1040041230號,https://www.cbc.gov.tw/tw/cp-379-51075-813E3-1.html,official letter,2026-11-16,2015-09-16,A,historical fax-instruction rules; US$500k per transaction,low,old letter; currency of rule uncertain
+央行匯入匯款分類及編號附件,https://www.cbc.gov.tw/tw/public/Attachment/8111316115471.pdf,official attachment,2026-11-16,UNKNOWN,A,remittance code lookup,low,seen only in search results; code for freelance income not confirmed
+營業稅法第7條,https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340080&flno=7,official law database,2026-11-16,data through 2026-11-06,A,zero rate for export services,high,
+營業稅法施行細則第11條,https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340081&flno=11,official law database,2026-11-16,data through 2026-11-06,A,FX proof documents for zero rate,high,
+營業稅法第28條,https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340080&flno=28,official law database,2026-11-16,data through 2026-11-06,A,tax registration before business,high,
+所得稅法第14條,https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340003&flno=14,official law database,2026-11-16,UNKNOWN,A,income categories,medium,稿費 not named in summary
+全民健康保險法第31條,https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=L0060001&flno=31,official law database,2026-11-16,data through 2026-11-06,A,supplementary premium on professional income,medium,rate and threshold not on law page
+健保署補充保費文件,https://www.nhi.gov.tw/ch/dl-80097-39aa394983124e3880efd20a541d81d7-1.pdf,official PDF,2026-11-16,UNKNOWN,A,2.11% / NT$20000 claim,low,PDF fetch failed; numbers from search summary only
+etax 網路交易 Q&A,https://www.etax.nat.gov.tw/etwmain/tax-info/network-transaction-taxtation-area/q-and-a,official (MOF),2026-11-16,UNKNOWN,A,threshold services NT$50000 goods NT$100000 from 2025-01-01; registration,medium,context is online sellers; applicability to consultants unknown
+etax 外銷案例,https://www.etax.nat.gov.tw/etwmain/tax-info/network-transaction-taxtation-area/seller/export-case,official (MOF),2026-11-16,UNKNOWN,A,export service zero rate documents; 1%/5% example,medium,example is digital game seller; mentions 4萬 which conflicts with Q&A 5萬
+etax 網路交易公告,https://www.etax.nat.gov.tw/etwmain/tax-info/network-transaction-taxtation-area/press/1DWpQ3m,official (MOF),2026-11-16,2015-11-24,A,individual online sellers must register; penalties,medium,old release
+財政部 114年小規模營業人起徵點調高,https://www.cna.com.tw/news/afe/202403130338.aspx,news,2026-11-16,2024-03,B,threshold change context,low,search snippet
+財政部 費用標準令(經醫師公會文件),https://yilandoctor.org.tw/web/images/ckfinder/files/20260429114416.pdf,third-party doc,2026-11-16,2026-04-29,C,reference to 114 fee standard order,low,not used for rates
