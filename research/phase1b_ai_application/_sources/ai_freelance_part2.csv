@@ -1,0 +1,23 @@
+﻿source,url,source_type,access_date,published_or_updated,evidence_level,used_for,confidence,notes
+HN Algolia Freelancer threads,https://hn.algolia.com/api/v1/items/50338744,public API,2026-11-16,2026-11 (11 monthly threads Jan-Nov 2026 read),A,check for AI buyer posts,high,"Zero AI-related SEEKING FREELANCER posts across 11 threads; 2 seeking posts total (Flutter, electronic-music platform). No rows."
+Upwork job pages,https://www.upwork.com/freelance-jobs/n8n/,search snippets (WebSearch),2026-11-16,2026-06..2026-10 per snippet,C,27 Upwork rows,low,Direct fetch HTTP 403 (job pages and category pages); not bypassed.
+Arc listing/detail pages,https://arc.dev/remote-jobs/llm,WebFetch summariser,2026-11-16,2026-11,B,5 Arc rows,medium,"Rates show label only, no amounts."
+PRO360 case pages,https://www.pro360.com.tw/case/AI,WebFetch summariser,2026-11-16,2026-11-06..2026-11-15,B,"6 PRO360 rows, Taiwan budget bands",medium,"Categories /case/AI, /case/自動化, /case/爬蟲, Programmer 工作; ai_consultant case page empty (0)."
+PRO360 AI consultant price page,https://www.pro360.com.tw/category/ai_consultant,WebFetch,2026-11-16,page review 2026-11-06,B,"provider price stats (NT$3,000/6,500/10,000 per hr low/avg/high; NT$5,000-100,000 per project)",medium,"Provider-side price, not transaction price."
+shareuhack Taiwan AI consulting guide,https://www.shareuhack.com/posts/ai-automation-consulting-taiwan-guide-2026,blog (WebFetch),2026-11-16,2026-06-14 / updated 2026-08-15,C,claim: Tasker 103 AI/n8n cases; typical NT$15k-80k,low,"Secondary blog, no inline citations; Tasker count not independently verified (Tasker fetch failed: parse error / 404)."
+n8n Community Jobs category,https://community.n8n.io/c/jobs/13.json,public Discourse JSON,2026-11-16,2026-10-17..2026-11-11,A,13 n8n rows,medium,Poster claims unverifiable; ~half of 29 topics are for-hire (supply).
+Make Community Hire a Pro,https://community.make.com/c/hire-a-pro/50.json,public Discourse JSON,2026-11-16,2025-11..2026-11-15,A,2 Make rows; buyer/supply ratio,medium,"Of ~27 topics read, 2 were buyer requests; the rest for-hire."
+Dice job pages,https://www.dice.com/jobs/q-ai+automation+engineer-l-remote-jobs,search snippets,2026-11-16,UNKNOWN,C,4 Dice rows,low,Detail pages HTTP 410.
+Wellfound job pages,https://wellfound.com/role/r/ai-engineer,search snippets,2026-11-16,2026-08..2026-10,C,3 Wellfound rows,low,HTTP 410 on detail pages.
+Lemon.io via Working Nomads,https://www.workingnomads.com/jobs/senior-ai-engineer-architect-lemonio,WebFetch,2026-11-16,~2026-06,B,dead listing evidence,medium,Page says listing expired.
+Lemon.io AI engineer jobs page,https://lemon.io/for-developers/ai-engineer-jobs/,provider marketing (snippet),2026-11-16,UNKNOWN,C,provider rate claims USD 27-105/hr,low,Provider marketing; not a price paid.
+Remotive Lemon.io,https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131,WebFetch,2026-11-16,UNKNOWN,C,dead link evidence,medium,HTTP 404.
+Braintrust listings (mirrors),https://startup.jobs/machine-learning-engineer-large-language-model-freelance-remote-braintrust-4786272,search snippets,2026-11-16,UNKNOWN,C,2 Braintrust rows,low,HTTP 403 on mirror.
+Indeed,https://ph.indeed.com/viewjob?jk=e1f187e773f34b2f,search snippet,2026-11-16,UNKNOWN,C,1 Indeed row,low,HTTP 401.
+LinkedIn n8n jobs,https://www.linkedin.com/jobs/n8n-jobs-worldwide,search snippet,2026-11-16,2026-11,C,1 aggregate row; contract share claim,low,Aggregate page; not opened.
+Toptal freelance jobs,https://www.toptal.com/freelance-jobs/developers/artificial-intelligence,WebFetch,2026-11-16,2026-11,B,no client listings public; supply-side marketing only,medium,No rows.
+Contra,https://contra.com/hire/english-speaking-n8n-freelancers,search snippets,2026-11-16,2026,C,"provider profile pricing only (audit USD 1,200 / n8n+AI from USD 2,500: one profile)",low,No buyer opportunity listings found; no rows.
+Codeable,https://www.codeable.io/developers/openai/,search snippets,2026-11-16,UNKNOWN,C,supply profiles only,low,No public project requests; no rows.
+Malt,https://www.malt.fr/s/tags/ai-agent-69cf759aaff77f733a6b296a,search snippets,2026-11-16,UNKNOWN,C,"profile day rates EUR ~125-1,000 (self-reported)",low,Freelancer profile pages only; no missions. No rows.
+cake.me (CakeResume),https://www.cake.me/jobs?q=AI%20automation&job_type=freelance,WebFetch,2026-11-16,n/a,C,blocked,n/a,HTTP 403. 104外包網: no listings found via search. Tasker: fetch error/404.
+OpenAI / LangChain / HF / Cursor forums,https://community.openai.com/categories.json,public Discourse JSON,2026-11-16,n/a,A,checked for jobs categories,high,"No jobs/hire category on OpenAI, LangChain, Hugging Face, Cursor forums; Zapier community endpoint 404."
