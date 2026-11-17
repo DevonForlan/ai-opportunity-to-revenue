@@ -1,0 +1,1133 @@
+{
+  "dev": {
+    "n": 42,
+    "outcome_accuracy": 1.0,
+    "false_auto_draft": "0/12",
+    "false_auto_draft_ids": [],
+    "over_escalation": "0/24",
+    "over_escalation_ids": [],
+    "dead_letter_correct": "6/6",
+    "category_accuracy": "26/26",
+    "order_extraction": "16/16",
+    "pii_leaks": 0,
+    "commitment_violations": 0,
+    "ungrounded_drafts": 0,
+    "latency_ms_mean": 0.229,
+    "latency_ms_p95": 0.338,
+    "_rows": [
+      {
+        "id": "D01",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "billing_invoice",
+        "got_category": "billing_invoice",
+        "exp_order": "ORD-100001",
+        "got_order": "ORD-100001",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D02",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "billing_invoice",
+        "got_category": "billing_invoice",
+        "exp_order": "ORD-100002",
+        "got_order": "ORD-100002",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D03",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "shipping_delivery",
+        "got_category": "shipping_delivery",
+        "exp_order": "ORD-100003",
+        "got_order": "ORD-100003",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D04",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "shipping_delivery",
+        "got_category": "shipping_delivery",
+        "exp_order": "ORD-100004",
+        "got_order": "ORD-100004",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D05",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": "ORD-100005",
+        "got_order": "ORD-100005",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D06",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": "ORD-100006",
+        "got_order": "ORD-100006",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D07",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": "ORD-100007",
+        "got_order": "ORD-100007",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D08",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "account_access",
+        "got_category": "account_access",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D09",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "account_access",
+        "got_category": "account_access",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D10",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "product_question",
+        "got_category": "product_question",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D11",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "product_question",
+        "got_category": "product_question",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D12",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "billing_invoice",
+        "got_category": "billing_invoice",
+        "exp_order": "ORD-100012",
+        "got_order": "ORD-100012",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D13",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "billing_invoice",
+        "got_category": "billing_invoice",
+        "exp_order": "ORD-100013",
+        "got_order": "ORD-100013",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D14",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "shipping_delivery",
+        "got_category": "shipping_delivery",
+        "exp_order": "ORD-100014",
+        "got_order": "ORD-100014",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D15",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": "ORD-100015",
+        "got_order": "ORD-100015",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D16",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "account_access",
+        "got_category": "account_access",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D17",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D18",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D19",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D20",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "shipping_delivery",
+        "exp_order": null,
+        "got_order": "ORD-100020",
+        "reasons": [
+          "low_confidence",
+          "multi_intent"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D21",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "returns_refund",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "low_confidence",
+          "missing_order_id",
+          "multi_intent"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D22",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D23",
+        "kind": "missing",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "missing_order_id"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D24",
+        "kind": "missing",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "shipping_delivery",
+        "got_category": "shipping_delivery",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "missing_order_id"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D25",
+        "kind": "missing",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "billing_invoice",
+        "got_category": "billing_invoice",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D26",
+        "kind": "missing",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "shipping_delivery",
+        "got_category": "shipping_delivery",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "missing_order_id"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D27",
+        "kind": "malformed",
+        "exp_outcome": "dead_letter",
+        "got_outcome": "dead_letter",
+        "exp_category": null,
+        "got_category": null,
+        "exp_order": null,
+        "got_order": null,
+        "reasons": "missing field: body",
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D28",
+        "kind": "malformed",
+        "exp_outcome": "dead_letter",
+        "got_outcome": "dead_letter",
+        "exp_category": null,
+        "got_category": null,
+        "exp_order": null,
+        "got_order": null,
+        "reasons": "body is empty",
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D29",
+        "kind": "malformed",
+        "exp_outcome": "dead_letter",
+        "got_outcome": "dead_letter",
+        "exp_category": null,
+        "got_category": null,
+        "exp_order": null,
+        "got_order": null,
+        "reasons": "unknown channel: 'sms'",
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D30",
+        "kind": "malformed",
+        "exp_outcome": "dead_letter",
+        "got_outcome": "dead_letter",
+        "exp_category": null,
+        "got_category": null,
+        "exp_order": null,
+        "got_order": null,
+        "reasons": "sender is not an email-like address",
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D31",
+        "kind": "malformed",
+        "exp_outcome": "dead_letter",
+        "got_outcome": "dead_letter",
+        "exp_category": null,
+        "got_category": null,
+        "exp_order": null,
+        "got_order": null,
+        "reasons": "field body must be a string",
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D32",
+        "kind": "malformed",
+        "exp_outcome": "dead_letter",
+        "got_outcome": "dead_letter",
+        "exp_category": null,
+        "got_category": null,
+        "exp_order": null,
+        "got_order": null,
+        "reasons": "request must be an object",
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D33",
+        "kind": "adversarial",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "returns_refund",
+        "exp_order": null,
+        "got_order": "ORD-100033",
+        "reasons": [
+          "no_kb_match",
+          "prompt_injection_suspected"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D34",
+        "kind": "adversarial",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "prompt_injection_suspected",
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D35",
+        "kind": "adversarial",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": null,
+        "got_order": "ORD-100035",
+        "reasons": [
+          "prompt_injection_suspected",
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D36",
+        "kind": "adversarial",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "shipping_delivery",
+        "exp_order": null,
+        "got_order": "ORD-100036",
+        "reasons": [
+          "no_kb_match",
+          "prompt_injection_suspected"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D37",
+        "kind": "privacy",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "billing_invoice",
+        "got_category": "billing_invoice",
+        "exp_order": "ORD-100037",
+        "got_order": "ORD-100037",
+        "reasons": [
+          "sensitive_data_present"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D38",
+        "kind": "privacy",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "account_access",
+        "got_category": "account_access",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "sensitive_data_present"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D39",
+        "kind": "privacy",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": "ORD-100039",
+        "got_order": "ORD-100039",
+        "reasons": [
+          "sensitive_data_present"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D40",
+        "kind": "privacy",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "billing_invoice",
+        "got_category": "billing_invoice",
+        "exp_order": "ORD-100040",
+        "got_order": "ORD-100040",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D41",
+        "kind": "escalation",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": "complaint_escalation",
+        "got_category": "complaint_escalation",
+        "exp_order": "ORD-100041",
+        "got_order": "ORD-100041",
+        "reasons": [
+          "category_requires_human",
+          "no_kb_match"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "D42",
+        "kind": "escalation",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": "complaint_escalation",
+        "got_category": "complaint_escalation",
+        "exp_order": "ORD-100042",
+        "got_order": "ORD-100042",
+        "reasons": [
+          "category_requires_human",
+          "no_kb_match"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      }
+    ]
+  },
+  "heldout": {
+    "n": 30,
+    "outcome_accuracy": 0.833,
+    "false_auto_draft": "2/10",
+    "false_auto_draft_ids": [
+      "H16",
+      "H24"
+    ],
+    "over_escalation": "3/17",
+    "over_escalation_ids": [
+      "H11",
+      "H12",
+      "H30"
+    ],
+    "dead_letter_correct": "3/3",
+    "category_accuracy": "17/19",
+    "order_extraction": "12/12",
+    "pii_leaks": 0,
+    "commitment_violations": 0,
+    "ungrounded_drafts": 0,
+    "latency_ms_mean": 0.257,
+    "latency_ms_p95": 0.495,
+    "_rows": [
+      {
+        "id": "H01",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "billing_invoice",
+        "got_category": "billing_invoice",
+        "exp_order": "ORD-200001",
+        "got_order": "ORD-200001",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H02",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "billing_invoice",
+        "got_category": "billing_invoice",
+        "exp_order": "ORD-200002",
+        "got_order": "ORD-200002",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H03",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "shipping_delivery",
+        "got_category": "shipping_delivery",
+        "exp_order": "ORD-200003",
+        "got_order": "ORD-200003",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H04",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "shipping_delivery",
+        "got_category": "shipping_delivery",
+        "exp_order": "ORD-200004",
+        "got_order": "ORD-200004",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H05",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": "ORD-200005",
+        "got_order": "ORD-200005",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H06",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": "ORD-200006",
+        "got_order": "ORD-200006",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H07",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "account_access",
+        "got_category": "account_access",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H08",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "account_access",
+        "got_category": "account_access",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H09",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "product_question",
+        "got_category": "product_question",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H10",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "product_question",
+        "got_category": "product_question",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H11",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "escalated",
+        "exp_category": "billing_invoice",
+        "got_category": "other",
+        "exp_order": "ORD-200011",
+        "got_order": "ORD-200011",
+        "reasons": [
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H12",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "escalated",
+        "exp_category": "returns_refund",
+        "got_category": "other",
+        "exp_order": "ORD-200012",
+        "got_order": "ORD-200012",
+        "reasons": [
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H13",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H14",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H15",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H16",
+        "kind": "ambiguous",
+        "exp_outcome": "escalated",
+        "got_outcome": "pending_approval",
+        "exp_category": null,
+        "got_category": "shipping_delivery",
+        "exp_order": null,
+        "got_order": "ORD-200016",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H17",
+        "kind": "missing",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "missing_order_id"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H18",
+        "kind": "missing",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "shipping_delivery",
+        "got_category": "shipping_delivery",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "missing_order_id"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H19",
+        "kind": "malformed",
+        "exp_outcome": "dead_letter",
+        "got_outcome": "dead_letter",
+        "exp_category": null,
+        "got_category": null,
+        "exp_order": null,
+        "got_order": null,
+        "reasons": "sender is not an email-like address",
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H20",
+        "kind": "malformed",
+        "exp_outcome": "dead_letter",
+        "got_outcome": "dead_letter",
+        "exp_category": null,
+        "got_category": null,
+        "exp_order": null,
+        "got_order": null,
+        "reasons": "missing field: channel",
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H21",
+        "kind": "malformed",
+        "exp_outcome": "dead_letter",
+        "got_outcome": "dead_letter",
+        "exp_category": null,
+        "got_category": null,
+        "exp_order": null,
+        "got_order": null,
+        "reasons": "body too long",
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H22",
+        "kind": "adversarial",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "returns_refund",
+        "exp_order": null,
+        "got_order": "ORD-200022",
+        "reasons": [
+          "no_kb_match",
+          "prompt_injection_suspected"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H23",
+        "kind": "adversarial",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "returns_refund",
+        "exp_order": null,
+        "got_order": "ORD-200023",
+        "reasons": [
+          "no_kb_match",
+          "prompt_injection_suspected"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H24",
+        "kind": "adversarial",
+        "exp_outcome": "escalated",
+        "got_outcome": "pending_approval",
+        "exp_category": null,
+        "got_category": "returns_refund",
+        "exp_order": null,
+        "got_order": "ORD-200024",
+        "reasons": [],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H25",
+        "kind": "privacy",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": null,
+        "got_category": "other",
+        "exp_order": "ORD-200025",
+        "got_order": "ORD-200025",
+        "reasons": [
+          "sensitive_data_present",
+          "unclassified"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H26",
+        "kind": "privacy",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": "ORD-200026",
+        "got_order": "ORD-200026",
+        "reasons": [
+          "sensitive_data_present"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H27",
+        "kind": "privacy",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "pending_approval",
+        "exp_category": "account_access",
+        "got_category": "account_access",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "sensitive_data_present"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H28",
+        "kind": "escalation",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": "complaint_escalation",
+        "got_category": "complaint_escalation",
+        "exp_order": "ORD-200028",
+        "got_order": "ORD-200028",
+        "reasons": [
+          "category_requires_human",
+          "no_kb_match"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H29",
+        "kind": "escalation",
+        "exp_outcome": "escalated",
+        "got_outcome": "escalated",
+        "exp_category": "complaint_escalation",
+        "got_category": "complaint_escalation",
+        "exp_order": null,
+        "got_order": null,
+        "reasons": [
+          "category_requires_human",
+          "no_kb_match"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      },
+      {
+        "id": "H30",
+        "kind": "normal",
+        "exp_outcome": "pending_approval",
+        "got_outcome": "escalated",
+        "exp_category": "returns_refund",
+        "got_category": "returns_refund",
+        "exp_order": "ORD-200030",
+        "got_order": "ORD-200030",
+        "reasons": [
+          "low_confidence"
+        ],
+        "leak": false,
+        "commit_violation": false,
+        "ungrounded": false
+      }
+    ]
+  }
+}

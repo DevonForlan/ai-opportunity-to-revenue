@@ -1,0 +1,6 @@
+process_id,process_name,owner_role,volume_per_month,minutes_per_case,error_rate_pct,data_source,systems,data_sensitivity_1to5,data_readiness_1to5,integration_complexity_1to5,ai_needed_assessment,automatable_share_estimate,notes
+P1,Customer support email triage and first reply,Support lead,1300,6,4,Shared mailbox + help-centre articles,"Gmail, Shopify admin",3,3,2,yes (classification + grounded drafting),0.45,"~60 mails/day; ~half repetitive (shipping/returns/invoice). Synthetic."
+P2,Supplier invoice data entry,Finance clerk,220,8,3,PDF invoices by email,"Gmail, accounting package (CSV import)",3,2,3,yes (document extraction),0.60,"Layouts vary by supplier (~25 suppliers). Synthetic."
+P3,Web-form lead routing to CRM,Sales coordinator,150,10,8,Website form export,"Website form, CRM",2,4,1,no (rules + enrichment lookup),0.80,"Delay is the pain: leads wait ~1 day. Synthetic."
+P4,Weekly sales and stock report,Operations manager,4,180,5,Shopify export + inventory sheet,"Shopify, Google Sheets",2,4,1,no (scheduled script),0.85,"Same layout every week. Synthetic."
+P5,Staff questions about policies and product specs,Everyone / team leads,520,5,10,Policy docs and spec sheets scattered in Drive,"Google Drive, chat",2,2,2,yes (retrieval over documents),0.35,"~25 questions/day interrupt the experts. Docs outdated in places. Synthetic."

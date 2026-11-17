@@ -1,3 +1,5 @@
+> ⚠️ **PHASE 2 審計修正（2026-11-17）**：本檔的排名與若干計數已被 `research/phase2_validation/01_PHASE1B_DECISION_AUDIT.md` 修正（purchase 126 筆有 50% 被誤分類；Workflow 的 20 筆 purchase 為 RPA、非 AI；Internal assistant 33→4；Assessment 7→4；「個人可及規模」論證被削弱）。**下列內容保留供追溯，不再作為決策依據。**
+
 # 00 Phase 1B Executive Summary（AI Application / AI Automation）
 
 **判定：CONDITIONAL GO → 測試獲客 + 小型 pilot；不做 product build。** 詳見 `16_PHASE1B_RECOMMENDATION.md`。
