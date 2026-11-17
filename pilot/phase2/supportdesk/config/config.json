@@ -1,0 +1,12 @@
+{
+  "config_version": "2026-11-17.2",
+  "classifier": "rules-v1",
+  "min_confidence": 0.55,
+  "min_retrieval_score": 0.03,
+  "priority_rules": {"complaint_escalation": "high", "billing_invoice": "medium", "returns_refund": "medium", "shipping_delivery": "medium", "account_access": "medium", "product_question": "low", "other": "low"},
+  "always_escalate_categories": ["complaint_escalation"],
+  "multi_intent_ratio": 0.6,
+  "multi_intent_min_second_score": 2.0,
+  "retry": {"attempts": 3, "backoff_seconds": 0.0},
+  "notes": "min_retrieval_score and plural stemming were tuned on DEV. The word-boundary keyword fix (H01) and the multi_intent rule (H16) were informed by HELDOUT failures, so HELDOUT is NOT a clean estimate for those two. Untouched initial scores are frozen in eval/results_initial.json."
+}

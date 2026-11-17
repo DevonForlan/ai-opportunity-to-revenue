@@ -1,0 +1,5 @@
+{
+  "note": "Regression floor, set from the 2026-11-17 run. Raising these is allowed only with a documented reason.",
+  "dev": {"min_outcome_accuracy": 0.95, "max_false_auto_draft": 0},
+  "heldout": {"min_outcome_accuracy": 0.80, "max_false_auto_draft": 2}
+}

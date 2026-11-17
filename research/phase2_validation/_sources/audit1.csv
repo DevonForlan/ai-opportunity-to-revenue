@@ -1,0 +1,5 @@
+source,url,source_type,access_date,published_or_updated,evidence_level,used_for,confidence,notes
+Phase 1B demand dataset (local repo),research/phase1b_ai_application/02_AI_DEMAND_DATASET.csv,local_repo_file,2026-11-17,2026-11-16,B,purchase re-mapping of 126 rows and demand sample of 50 rows,medium,Titles/notes only; PCC/USAspending pages NOT re-fetched; derived from dataset's own captured text
+Phase 1B scoring (local repo),research/phase1b_ai_application/08_AI_PRODUCT_SCORING.md,local_repo_file,2026-11-17,2026-11-16,B,baseline counts per candidate and Top-5 claims,medium,Baseline numbers reproduced exactly from CSV (33/28/20/13/11/7/7/4)
+Audit output: purchase remap,research/phase2_validation/01_purchase_remap.csv,local_repo_file,2026-11-17,2026-11-17,B,126-row manual remap,medium,Title-level judgment; other-AI = title insufficient (UNKNOWN)
+Audit output: demand sample,research/phase2_validation/01_audit_demand_sample.csv,local_repo_file,2026-11-17,2026-11-17,B,50-row stratified audit seed 42,medium-low,Stratified: 1 per mapping category then random fill; text read from dataset only

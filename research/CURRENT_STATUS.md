@@ -1,9 +1,9 @@
 # CURRENT_STATUS
 
 - **Project**: ai-opportunity-to-revenue
-- **Current Phase**: Phase 1B — AI Application / AI Automation productized service research（完成，待人工複核；見 research/phase1b_ai_application/；Phase 1A 為 baseline）
+- **Current Phase**: Phase 2 — Decision Closure + Pilot Validation（完成；判定 HOLD；見 research/phase2_validation/；Phase 1A/1B 為 baseline，1B 排名已被審計修正）
 - **Current Status**: 文件 01–17 已產出並已 push 至 private repo DevonForlan/ai-opportunity-to-revenue；雲端 ChatOps 架構已建立（待設定 Secret 後實測）
-- **Last Updated**: 2026-11-16（Phase 1B）
+- **Last Updated**: 2026-11-17（Phase 2）
 
 ## Completed
 01–17 全部文件、research/data/*.csv、research/_sources/*；Source Log 已合併（16）。
@@ -51,3 +51,6 @@
 
 ## Phase 1B（AI Application，2026-11-16）
 方向調整：第一主線 AI Application/Automation，MongoDB 降為次要。結論 CONDITIONAL GO → 測試獲客＋小型 pilot（非 build）。需求 295／供給 96／Freelance 137。Top 5：AI Assessment、Support Automation、Workflow Automation、RAG Assistant、Eval/Guardrail。私人買家購買證據=0（purchase 126 全為公部門）；AI+DB 差異化無買家證據。詳見 research/phase1b_ai_application/00 與 16。PR #5（Phase 1A）尚未 merge。
+
+## Phase 2（2026-11-17）
+判定 **HOLD**（非 GO、非 NO-GO）。審計推翻部分 Phase 1B 結論（20 筆 workflow purchase 為 RPA；internal-assistant 33→4；assessment 7→4）。私人買家嚴格證據天花板：真正私人且有金額=2。Pilot A/B（合成）完成：supportdesk PoC 21 測試通過，HELDOUT 0.80→0.833，危險方向錯誤 2/10；LLM 路徑未測。人工時間未量測，不計算 automation ratio。未滿足 Gate：#5 人工工時、#10 雇主/稅務/法律；需要使用者做 U1（雇主/稅務/收款）、U2（計時人機協作 run）、U4（客戶資料與 LLM 政策），之後才有 U3 獲客測試。未建立 product/ 規格。詳見 research/phase2_validation/00 與 18。PR 堆疊：#5（1A）→ #7（1B）→ Phase 2 PR；皆未 merge。

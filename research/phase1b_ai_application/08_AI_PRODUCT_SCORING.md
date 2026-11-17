@@ -1,3 +1,5 @@
+> ⚠️ **PHASE 2 審計修正（2026-11-17）**：本檔的排名與若干計數已被 `research/phase2_validation/01_PHASE1B_DECISION_AUDIT.md` 修正（purchase 126 筆有 50% 被誤分類；Workflow 的 20 筆 purchase 為 RPA、非 AI；Internal assistant 33→4；Assessment 7→4；「個人可及規模」論證被削弱）。**下列內容保留供追溯，不再作為決策依據。**
+
 # 08 AI Product Scoring（evidence-backed ordinal ranking）
 
 標籤：`BASELINE` / `NEW EVIDENCE` / `INFERENCE`。計數由我對合併資料集重算（`02_AI_DEMAND_DATASET.csv` 295 列、`06_AI_FREELANCE_SAMPLES.csv` 137 列、`04_AI_COMPETITOR_DATASET.csv` 96 列、`14_AI_DB_EVIDENCE.csv` 81 列）。**不使用數字加權分數**，避免假精準；等級 H/M/L 的門檻在下方公開，UNKNOWN 不補值。

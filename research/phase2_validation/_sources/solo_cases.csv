@@ -1,0 +1,35 @@
+﻿source,url,source_type,access_date,published_or_updated,evidence_level,used_for,confidence,notes
+Clutch: n8n Lab,https://clutch.co/profile/n8n-lab,marketplace_review_profile,2026-11-17,2026 reviews,B,SC001-006,medium,6 reviews; profile 2-9 employees; two reviews have internal date/cost inconsistencies
+Clutch: Axe Automation,https://clutch.co/profile/axe-automation,marketplace_review_profile,2026-11-17,2023-2026 reviews,B,SC007-014,medium,10-49 employees (outside <=15); header 16 reviews vs 11 verified
+Clutch: Axe Automation reviews p2,https://clutch.co/go-to-review/axe-automation/340646,marketplace_review_profile,2026-11-17,2023-2024 reviews,B,SC014 and cross-check,medium,Reviews 11-16 read via this URL
+Clutch: Streamline Agency,https://clutch.co/profile/streamline-agency-0,marketplace_review_profile,2026-11-17,2025 reviews,B,SC015-016,medium,10-49 employees; 2 reviews
+Kevin Leary services page,https://www.kevinleary.net/services/ai-consultant,provider_site,2026-11-17,2026,A,SC017-020,medium,Case list; provider self-published
+Kevin Leary: Northstar case,https://www.kevinleary.net/case-studies/northstar-travel-group/,provider_case_study,2026-11-17,2025,B,SC017,medium,Named client; metrics provider-reported
+Kevin Leary: Honeyfund case,https://www.kevinleary.net/case-studies/honeyfund/,provider_case_study,2026-11-17,2026,B,SC018,medium,
+Kevin Leary: CPC Scientific case,https://www.kevinleary.net/case-studies/cpc-scientific/,provider_case_study,2026-11-17,2026,B,SC019,medium,
+Kevin Leary testimonials,https://www.kevinleary.net/testimonials/,provider_site_testimonials,2026-11-17,2026,B,SC017-019 client quotes,medium,"38 reviews, only 2 clients' AI work"
+The AI Architects,https://theaiarchitects.com/ai-consulting,provider_site,2026-11-17,2026,A,SC021,medium,Case list mostly course testimonials
+n8n.io System AI case,https://n8n.io/case-studies/system-ai/,vendor_hosted_case,2026-11-17,n/a,B,SC022,medium,Vendor-curated
+Khairul Muhtadin portfolio,https://khmuhtadin-astro.pages.dev/portfolio/due-diligence-automation-in-48-hours,provider_portfolio,2026-11-17,n/a,C,SC023,medium,
+A2B AI Technologies case,https://a2b-3-0.pages.dev/case-studies/seo-reporting,provider_case_study,2026-11-17,n/a,C,SC024,low,Internally inconsistent
+Gigabit proof page,https://gigabit.agency/proof/ai-workflow-automation-ecommerce-ops/,provider_case_study,2026-11-17,n/a,C,SC025,low,Headcount unknown
+Innovatrix dev.to,https://dev.to/emperorakashi20/how-we-saved-a-client-rs-25-lakh-per-year-with-ai-automation-case-study-541l,blog,2026-11-17,n/a,C,SC026,low,
+GrossiWeb blog,https://grossiweb.com/blog/ai-automation/ai-agent-saves-10-hours-week,blog,2026-11-17,n/a,C,SC027,low,Not solo
+4Spot Consulting,https://4spotconsulting.com/?p=101983,blog,2026-11-17,2026-05,C,SC028,low,
+racprojects Notion,https://racprojects.notion.site/CAIO-Consultant-Podcast-to-22K-to-Six-Figure-Relationship-34db175b708681cb85bbedf8caf02e83,notion_page,2026-11-17,n/a,C,SC029,low,WebFetch could not render; search summary only
+Augmented AI Automations,https://www.augmentedstartups.com/blog/how-a-5k-automation-delivered-a-15k-outcome,blog,2026-11-17,2025-09-22,C,SC030,low,
+Contra: Mina,https://contra.com/p/BNBsv6kA-building-a-marketing-automation-platform-in-30-days,marketplace_portfolio,2026-11-17,n/a,C,SC031,low,Inconsistent figures
+Contra: Luqman,https://contra.com/p/ArAZEo6U-streamline-support-ticket-management,marketplace_portfolio,2026-11-17,2024-08-19,C,SC032,low,
+Contra: prem_patel,https://contra.com/s/Y62cgEge-makecom-expert-level-5-certified-automation-and-ai-agents,marketplace_service,2026-11-17,n/a,C,SC033,low,Also in baseline AS020
+Achiya Automation,https://achiya-automation.com/en/case-studies/aluminum-supply-chain/,provider_case_study,2026-11-17,n/a,C,SC034,low,
+Skool: Jan Hedwig,https://www.skool.com/ai-automations-by-jan-7120/case-study-how-i-sold-a-5000-ai-automation-to-a-catering-service,community_post,2026-11-17,n/a,C,SC035,low,Truncated
+Skool: AI Automation Society,https://www.skool.com/ai-automation-society/how-i-made-over-100k-this-year-by-accepting-a-1-hr-n8n-gig?p=70bd4cb3,community_post,2026-11-17,2025-12,C,SC036,low,"Truncated, self-reported income"
+dev.to nova_gg,https://dev.to/nova_gg/n8n-review-2026-i-used-it-for-8-months-to-build-ai-agents-honest-verdict-kif,blog,2026-11-17,2026,C,SC037,low,
+techconcepts.org sprint,https://techconcepts.org/sprint/,provider_site,2026-11-17,n/a,C,SC038,low,Also baseline AS012
+robertwinters-website,https://robertwinters-website.pages.dev/consulting,provider_site,2026-11-17,2026,A,SC039,medium,Also baseline AS036
+terms.law AI implementation case studies (EXCLUDED),https://terms.law/services/ai-implementation/case-studies/,provider_site,2026-11-17,n/a,C,excluded,high,Client examples are labelled illustrative composites; not used as delivered cases
+Failed fetch: Medium TDS 'how I built a business',https://towardsdatascience.com/how-i-built-a-business-automating-workflows-with-ai-agents/,blog,2026-11-17,n/a,C,not used,high,HTTP 403
+Failed fetch: n8n community job post,https://community.n8n.io/t/seeking-n8n-automation-builder-for-ongoing-projects/225219?tl=en,community_post,2026-11-17,n/a,C,not used,high,HTTP 404
+Failed fetch: dgmh10uk dev.to,https://dev.to/dgmh10uk/from-zero-to-automated-my-journey-building-ai-agents-for-clients-16k3,blog,2026-11-17,n/a,C,not used,high,HTTP 404
+Baseline: 11_SOLO_CONSULTANT_MODEL.md,research/phase1b_ai_application/11_SOLO_CONSULTANT_MODEL.md,repo_baseline,2026-11-17,phase1b,B,context,high,Used for lead list only
+Baseline: 04_AI_COMPETITOR_DATASET_solo.csv,research/phase1b_ai_application/04_AI_COMPETITOR_DATASET_solo.csv,repo_baseline,2026-11-17,phase1b,B,context; AS012/AS020/AS036 leads,high,
